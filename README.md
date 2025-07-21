@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/static/v1?label=code%20style&message=black&color=black&style=flat-square" height="20" alt="code style: black">
   </a>
 <!-- Short description: -->
+  # Kevin Savla
   <h3>All algorithms implemented in Python - for education</h3>
 </div>
 
